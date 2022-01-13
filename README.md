@@ -4,3 +4,6 @@ I have been postponing starting a project mostly because of imposter syndrome or
 However, my project doesn't need to cure cancer or anything like that. 
 The most important thing is that I begin and build from there.
 I love Python as a language but I definetely had fun going back to the HTML/CSS roots.
+
+*Project is live*
+Link: https://waburi-linktreeclone.netlify.app/
